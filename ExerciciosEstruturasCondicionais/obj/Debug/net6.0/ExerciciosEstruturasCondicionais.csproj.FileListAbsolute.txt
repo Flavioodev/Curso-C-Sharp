@@ -1,0 +1,15 @@
+C:\CursoC-Sharp\ExerciciosEstruturasCondicionais\obj\Debug\net6.0\ExerciciosEstruturasCondicionais.csproj.AssemblyReference.cache
+C:\CursoC-Sharp\ExerciciosEstruturasCondicionais\obj\Debug\net6.0\ExerciciosEstruturasCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoC-Sharp\ExerciciosEstruturasCondicionais\obj\Debug\net6.0\ExerciciosEstruturasCondicionais.AssemblyInfoInputs.cache
+C:\CursoC-Sharp\ExerciciosEstruturasCondicionais\obj\Debug\net6.0\ExerciciosEstruturasCondicionais.AssemblyInfo.cs
+C:\CursoC-Sharp\ExerciciosEstruturasCondicionais\obj\Debug\net6.0\ExerciciosEstruturasCondicionais.csproj.CoreCompileInputs.cache
+C:\CursoC-Sharp\ExerciciosEstruturasCondicionais\bin\Debug\net6.0\ExerciciosEstruturasCondicionais.exe
+C:\CursoC-Sharp\ExerciciosEstruturasCondicionais\bin\Debug\net6.0\ExerciciosEstruturasCondicionais.deps.json
+C:\CursoC-Sharp\ExerciciosEstruturasCondicionais\bin\Debug\net6.0\ExerciciosEstruturasCondicionais.runtimeconfig.json
+C:\CursoC-Sharp\ExerciciosEstruturasCondicionais\bin\Debug\net6.0\ExerciciosEstruturasCondicionais.dll
+C:\CursoC-Sharp\ExerciciosEstruturasCondicionais\bin\Debug\net6.0\ExerciciosEstruturasCondicionais.pdb
+C:\CursoC-Sharp\ExerciciosEstruturasCondicionais\obj\Debug\net6.0\ExerciciosEstruturasCondicionais.dll
+C:\CursoC-Sharp\ExerciciosEstruturasCondicionais\obj\Debug\net6.0\refint\ExerciciosEstruturasCondicionais.dll
+C:\CursoC-Sharp\ExerciciosEstruturasCondicionais\obj\Debug\net6.0\ExerciciosEstruturasCondicionais.pdb
+C:\CursoC-Sharp\ExerciciosEstruturasCondicionais\obj\Debug\net6.0\ExerciciosEstruturasCondicionais.genruntimeconfig.cache
+C:\CursoC-Sharp\ExerciciosEstruturasCondicionais\obj\Debug\net6.0\ref\ExerciciosEstruturasCondicionais.dll

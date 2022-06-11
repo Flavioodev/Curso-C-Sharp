@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OperadoresLogicos_e_Comparativos/1.0.0": {
+        "runtime": {
+          "OperadoresLogicos_e_Comparativos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OperadoresLogicos_e_Comparativos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\code\Saida_Dados\bin\Debug\net6.0\Saida_Dados.exe
+C:\code\Saida_Dados\bin\Debug\net6.0\Saida_Dados.deps.json
+C:\code\Saida_Dados\bin\Debug\net6.0\Saida_Dados.runtimeconfig.json
+C:\code\Saida_Dados\bin\Debug\net6.0\Saida_Dados.dll
+C:\code\Saida_Dados\bin\Debug\net6.0\Saida_Dados.pdb
+C:\code\Saida_Dados\obj\Debug\net6.0\Saida_Dados.csproj.AssemblyReference.cache
+C:\code\Saida_Dados\obj\Debug\net6.0\Saida_Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\Saida_Dados\obj\Debug\net6.0\Saida_Dados.AssemblyInfoInputs.cache
+C:\code\Saida_Dados\obj\Debug\net6.0\Saida_Dados.AssemblyInfo.cs
+C:\code\Saida_Dados\obj\Debug\net6.0\Saida_Dados.csproj.CoreCompileInputs.cache
+C:\code\Saida_Dados\obj\Debug\net6.0\Saida_Dados.dll
+C:\code\Saida_Dados\obj\Debug\net6.0\refint\Saida_Dados.dll
+C:\code\Saida_Dados\obj\Debug\net6.0\Saida_Dados.pdb
+C:\code\Saida_Dados\obj\Debug\net6.0\Saida_Dados.genruntimeconfig.cache
+C:\code\Saida_Dados\obj\Debug\net6.0\ref\Saida_Dados.dll

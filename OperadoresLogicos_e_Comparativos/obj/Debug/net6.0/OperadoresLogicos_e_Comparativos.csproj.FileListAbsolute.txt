@@ -1,0 +1,15 @@
+C:\code\OperadoresLogicos_e_Comparativos\bin\Debug\net6.0\OperadoresLogicos_e_Comparativos.exe
+C:\code\OperadoresLogicos_e_Comparativos\bin\Debug\net6.0\OperadoresLogicos_e_Comparativos.deps.json
+C:\code\OperadoresLogicos_e_Comparativos\bin\Debug\net6.0\OperadoresLogicos_e_Comparativos.runtimeconfig.json
+C:\code\OperadoresLogicos_e_Comparativos\bin\Debug\net6.0\OperadoresLogicos_e_Comparativos.dll
+C:\code\OperadoresLogicos_e_Comparativos\bin\Debug\net6.0\OperadoresLogicos_e_Comparativos.pdb
+C:\code\OperadoresLogicos_e_Comparativos\obj\Debug\net6.0\OperadoresLogicos_e_Comparativos.csproj.AssemblyReference.cache
+C:\code\OperadoresLogicos_e_Comparativos\obj\Debug\net6.0\OperadoresLogicos_e_Comparativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\OperadoresLogicos_e_Comparativos\obj\Debug\net6.0\OperadoresLogicos_e_Comparativos.AssemblyInfoInputs.cache
+C:\code\OperadoresLogicos_e_Comparativos\obj\Debug\net6.0\OperadoresLogicos_e_Comparativos.AssemblyInfo.cs
+C:\code\OperadoresLogicos_e_Comparativos\obj\Debug\net6.0\OperadoresLogicos_e_Comparativos.csproj.CoreCompileInputs.cache
+C:\code\OperadoresLogicos_e_Comparativos\obj\Debug\net6.0\OperadoresLogicos_e_Comparativos.dll
+C:\code\OperadoresLogicos_e_Comparativos\obj\Debug\net6.0\refint\OperadoresLogicos_e_Comparativos.dll
+C:\code\OperadoresLogicos_e_Comparativos\obj\Debug\net6.0\OperadoresLogicos_e_Comparativos.pdb
+C:\code\OperadoresLogicos_e_Comparativos\obj\Debug\net6.0\OperadoresLogicos_e_Comparativos.genruntimeconfig.cache
+C:\code\OperadoresLogicos_e_Comparativos\obj\Debug\net6.0\ref\OperadoresLogicos_e_Comparativos.dll
