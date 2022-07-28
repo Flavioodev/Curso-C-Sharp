@@ -1,0 +1,15 @@
+C:\CursoC-Sharp\ExercicioN4TriangulosURI\obj\Debug\net6.0\ExercicioN4TriangulosURI.csproj.AssemblyReference.cache
+C:\CursoC-Sharp\ExercicioN4TriangulosURI\obj\Debug\net6.0\ExercicioN4TriangulosURI.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoC-Sharp\ExercicioN4TriangulosURI\obj\Debug\net6.0\ExercicioN4TriangulosURI.AssemblyInfoInputs.cache
+C:\CursoC-Sharp\ExercicioN4TriangulosURI\obj\Debug\net6.0\ExercicioN4TriangulosURI.AssemblyInfo.cs
+C:\CursoC-Sharp\ExercicioN4TriangulosURI\obj\Debug\net6.0\ExercicioN4TriangulosURI.csproj.CoreCompileInputs.cache
+C:\CursoC-Sharp\ExercicioN4TriangulosURI\bin\Debug\net6.0\ExercicioN4TriangulosURI.exe
+C:\CursoC-Sharp\ExercicioN4TriangulosURI\bin\Debug\net6.0\ExercicioN4TriangulosURI.deps.json
+C:\CursoC-Sharp\ExercicioN4TriangulosURI\bin\Debug\net6.0\ExercicioN4TriangulosURI.runtimeconfig.json
+C:\CursoC-Sharp\ExercicioN4TriangulosURI\bin\Debug\net6.0\ExercicioN4TriangulosURI.dll
+C:\CursoC-Sharp\ExercicioN4TriangulosURI\bin\Debug\net6.0\ExercicioN4TriangulosURI.pdb
+C:\CursoC-Sharp\ExercicioN4TriangulosURI\obj\Debug\net6.0\ExercicioN4TriangulosURI.dll
+C:\CursoC-Sharp\ExercicioN4TriangulosURI\obj\Debug\net6.0\refint\ExercicioN4TriangulosURI.dll
+C:\CursoC-Sharp\ExercicioN4TriangulosURI\obj\Debug\net6.0\ExercicioN4TriangulosURI.pdb
+C:\CursoC-Sharp\ExercicioN4TriangulosURI\obj\Debug\net6.0\ExercicioN4TriangulosURI.genruntimeconfig.cache
+C:\CursoC-Sharp\ExercicioN4TriangulosURI\obj\Debug\net6.0\ref\ExercicioN4TriangulosURI.dll

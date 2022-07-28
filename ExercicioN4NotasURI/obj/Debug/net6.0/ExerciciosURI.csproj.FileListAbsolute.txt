@@ -1,0 +1,15 @@
+C:\CursoC-Sharp\ExerciciosURI\obj\Debug\net6.0\ExerciciosURI.csproj.AssemblyReference.cache
+C:\CursoC-Sharp\ExerciciosURI\obj\Debug\net6.0\ExerciciosURI.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoC-Sharp\ExerciciosURI\obj\Debug\net6.0\ExerciciosURI.AssemblyInfoInputs.cache
+C:\CursoC-Sharp\ExerciciosURI\obj\Debug\net6.0\ExerciciosURI.AssemblyInfo.cs
+C:\CursoC-Sharp\ExerciciosURI\obj\Debug\net6.0\ExerciciosURI.csproj.CoreCompileInputs.cache
+C:\CursoC-Sharp\ExerciciosURI\bin\Debug\net6.0\ExerciciosURI.exe
+C:\CursoC-Sharp\ExerciciosURI\bin\Debug\net6.0\ExerciciosURI.deps.json
+C:\CursoC-Sharp\ExerciciosURI\bin\Debug\net6.0\ExerciciosURI.runtimeconfig.json
+C:\CursoC-Sharp\ExerciciosURI\bin\Debug\net6.0\ExerciciosURI.dll
+C:\CursoC-Sharp\ExerciciosURI\bin\Debug\net6.0\ExerciciosURI.pdb
+C:\CursoC-Sharp\ExerciciosURI\obj\Debug\net6.0\ExerciciosURI.dll
+C:\CursoC-Sharp\ExerciciosURI\obj\Debug\net6.0\refint\ExerciciosURI.dll
+C:\CursoC-Sharp\ExerciciosURI\obj\Debug\net6.0\ExerciciosURI.pdb
+C:\CursoC-Sharp\ExerciciosURI\obj\Debug\net6.0\ExerciciosURI.genruntimeconfig.cache
+C:\CursoC-Sharp\ExerciciosURI\obj\Debug\net6.0\ref\ExerciciosURI.dll
